@@ -1,4 +1,3 @@
-Eğitim kapsamında bir Satış-Stok-Takip Otomasyonu Projesi geliştirdik. Proje boyunca kazandığım bazı beceriler:
 MVC Temelleri: Kategori, ürün, müşteri ve satış view'leri oluşturma, Controller'lar için CRUD işlemleri yazma.
 Veri Yönetimi: Dropdownlist kullanımı, veri filtreleme ve validasyon kontrolleri.
 Kullanıcı Deneyimi: Bootstrap ile responsive tasarım, modal (popup) ve alert yapısı kullanımı.
